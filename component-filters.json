@@ -33,7 +33,8 @@
   {
     "id": "cards",
     "components": [
-      "card"
+      "card",
+      "image"
     ]
   }
 ]
