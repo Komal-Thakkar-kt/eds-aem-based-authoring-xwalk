@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/Komal-Thakkar-kt/eds-aem-based-authoring-xwalk/main"
+    url: "https://author-p102860-e969579.adobeaemcloud.com/bin/franklin.delivery/Komal-Thakkar-kt/eds-aem-based-authoring-xwalk/main"
     type: "markup"
     suffix: ".html"
